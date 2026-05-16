@@ -1,5 +1,7 @@
 <img width="930" height="468" alt="logo" src="https://github.com/user-attachments/assets/ed871dc1-624d-46d3-a690-9bc641ddf94e" />
 
+<img width="952" height="328" alt="Image" src="https://github.com/user-attachments/assets/2da5d257-dd5b-4bef-831e-e39b44ce4b94" />
+
 # Contributing Guidelines
 
 Thank you for contributing to this bug bounty repository.
